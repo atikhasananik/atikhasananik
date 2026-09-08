@@ -1,8 +1,7 @@
-[(https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/799858979_935772329586590_7301078869196083994_n.jpg?stp=dst-jpg_tt6&cstp=mx1648x640&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEjpbZr8YV2m1F4MS_GSBh_tIgZuOwGN3O0iBm47AY3c9voSIbwMIZNwDdo_ZtpgAA1U_DL7Vcux1qhVz8jjCXR&_nc_ohc=0XWsEIvMWK4Q7kNvwGPYLFg&_nc_oc=AdrkhlUbxoPU7Wt0wSJ_0xctWZldGW2SXy-guoMlYyLv7oKC_9Ub6BVGaqM4hjmKYPQ&_nc_zt=23&_nc_ht=scontent.fdac140-1.fna&_nc_gid=BDvYus-vqbDGsHMWc_1JMQ&_nc_ss=7b2a8&oh=00_AQKrGZMXTqVK9dQ3YF1n2MFm8oOofKlOkI29ccPb2PeVpg&oe=6AA5E865)]
+![Full Stack Web Developer | Turning Ideas Into Powerful Digital Experiences | React, Node.js & MongoDB Developer](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/799858979_935772329586590_7301078869196083994_n.jpg?stp=dst-jpg_tt6&cstp=mx1648x640&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEjpbZr8YV2m1F4MS_GSBh_tIgZuOwGN3O0iBm47AY3c9voSIbwMIZNwDdo_ZtpgAA1U_DL7Vcux1qhVz8jjCXR&_nc_ohc=0XWsEIvMWK4Q7kNvwGPYLFg&_nc_oc=AdrkhlUbxoPU7Wt0wSJ_0xctWZldGW2SXy-guoMlYyLv7oKC_9Ub6BVGaqM4hjmKYPQ&_nc_zt=23&_nc_ht=scontent.fdac140-1.fna&_nc_gid=BDvYus-vqbDGsHMWc_1JMQ&_nc_ss=7b2a8&oh=00_AQKrGZMXTqVK9dQ3YF1n2MFm8oOofKlOkI29ccPb2PeVpg&oe=6AA5E865)
 
 ### Hi there 👋, I'm Atik Hasan Anik
 #### Full Stack Web Developer | Turning Ideas Into Powerful Digital Experiences | React, Node.js & MongoDB Developer
-![Full Stack Web Developer | Turning Ideas Into Powerful Digital Experiences | React, Node.js & MongoDB Developer]
 
 I’m a Full Stack Web Developer who enjoys turning ideas into products that people actually love to use. I work with React, Node.js, and MongoDB to build modern web applications that are fast, scalable, and easy to maintain.
 
