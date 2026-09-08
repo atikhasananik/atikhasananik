@@ -20,12 +20,7 @@
 ### Hi there 👋, I'm Atik Hasan Anik
 #### Full Stack Web Developer | Turning Ideas Into Powerful Digital Experiences | React, Node.js & MongoDB Developer
 
-I’m a Full Stack Web Developer who enjoys turning ideas into products that people actually love to use. I work with React, Node.js, and MongoDB to build modern web applications that are fast, scalable, and easy to maintain.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atikhasananik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/atikhasananik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/atikhasananik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/atikhasananik06)  
-
-
-What excites me most is taking an idea from a simple concept to a fully functional product. Whether I’m designing intuitive user interfaces, building reliable backend systems, or developing complete full-stack applications, I focus on creating solutions that are clean, practical, and built for long-term growth.
+I’m a Full Stack Web Developer who enjoys turning ideas into products that people actually love to use. I work with React, Node.js, and MongoDB to build modern web applications that are fast, scalable, and easy to maintain.What excites me most is taking an idea from a simple concept to a fully functional product. Whether I’m designing intuitive user interfaces, building reliable backend systems, or developing complete full-stack applications, I focus on creating solutions that are clean, practical, and built for long-term growth.
 
 
 
