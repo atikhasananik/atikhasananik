@@ -2,9 +2,9 @@
 
 <div align="center">
   
-<!-- <a href="https://git.io/typing-svg">
+ <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Full+Stack+Web+Developer;Turning+Ideas+Into+Digital+Experiences;React+%7C+Node.js+%7C+MongoDB+%7C+Next.js" alt="Typing SVG" />
-</a> -->
+</a> 
 
 <p align="center">
   <b>Full Stack Web Developer</b> passionate about building fast, scalable web applications and SaaS products.
